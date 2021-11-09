@@ -1,8 +1,10 @@
 
 # DragonBall FSM
-°£´ÜÇÑ µå·¡°ïº¼ FSMÀ» ½ÇÇàÇÕ´Ï´Ù.
+ê°„ë‹¨í•œ ë“œëž˜ê³¤ë³¼ FSMì„ ì‹¤í–‰í•©ë‹ˆë‹¤.
 
-##»ç¿ë ¹æ¹ý
-ºôµå È¯°æ : Visual Studio 2017
-VS2010 Æú´õ ¾ÈÀÇ Common ÆÄÀÏÀ» Áö¿ìÁö ¸»¾ÆÁÖ¼¼¿ä. (»ó´ë °æ·ÎÀÌ¹Ç·Î °æ·Î ¼öÁ¤ ºÒÇÊ¿ä)
+##ì‚¬ìš© ë°©ë²•
+ë¹Œë“œ í™˜ê²½ : Visual Studio 2017
+VS2010 í´ë” ì•ˆì˜ Common íŒŒì¼ì„ ì§€ìš°ì§€ ë§ì•„ì£¼ì„¸ìš”. (ìƒëŒ€ ê²½ë¡œì´ë¯€ë¡œ ê²½ë¡œ ìˆ˜ì • ë¶ˆí•„ìš”)
 
+
+![FSM](https://user-images.githubusercontent.com/46912893/140867389-483c232e-a510-466b-89cc-4c4ae06ad2ff.png)
